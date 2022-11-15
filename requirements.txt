@@ -1,0 +1,5 @@
+slack_bolt[async]==1.15.3
+slack-sdk==3.19.3
+
+pydantic[dotenv]==1.10.2
+redis==4.3.4
